@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101',
       }}
     >
-      TEXT ANDREI CLONA PROIECT
+      TEXT ANDREI CLONA PROIECT!!!!!!!!!!!!
     </div>
   );
 };
